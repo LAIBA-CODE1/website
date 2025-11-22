@@ -1,0 +1,76 @@
+*{
+    text-decoration: none;
+}
+
+
+.Home{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.about{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+
+}
+.gallery{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.contact{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.home{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.About{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+
+}
+.Gallery{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.Contact{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+ 
+.h{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.e{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+
+}
+.l{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.l{
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+}
+.im {
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    overflow-x: hidden;
+}
